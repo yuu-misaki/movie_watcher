@@ -19,7 +19,7 @@ brew install tesseract
 
 公式サイトからもインストール可能です。
 windowsではこちらを使ってインストールし、動作しました。
-
+https://gammasoft.jp/blog/tesseract-ocr-install-on-windows/
 
 # 3. 利用手順
 VScodeでこのリポジトリをクローンします。
