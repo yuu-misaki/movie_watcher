@@ -54,7 +54,7 @@ if __name__ == '__main__':
     detector = MovieKeywordDetector(
         interval_seconds = interval_seconds,
         duration_seconds = program_duration,
-        image_save_directory= "/screenshot",
+        image_save_directory= "screenshot",
         keyword = keyword,
     )
     detector.run()
